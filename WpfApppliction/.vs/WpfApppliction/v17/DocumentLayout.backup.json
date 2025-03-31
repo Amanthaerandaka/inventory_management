@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\intern assignment\\WpfApppliction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF05FDB5-F2B7-4E6C-8226-B843F9E7B103}|WpfApppliction\\WpfApppliction.csproj|f:\\intern assignment\\wpfapppliction\\wpfapppliction\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF05FDB5-F2B7-4E6C-8226-B843F9E7B103}|WpfApppliction\\WpfApppliction.csproj|solutionrelative:wpfapppliction\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF05FDB5-F2B7-4E6C-8226-B843F9E7B103}|WpfApppliction\\WpfApppliction.csproj|f:\\intern assignment\\wpfapppliction\\wpfapppliction\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF05FDB5-F2B7-4E6C-8226-B843F9E7B103}|WpfApppliction\\WpfApppliction.csproj|solutionrelative:wpfapppliction\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF05FDB5-F2B7-4E6C-8226-B843F9E7B103}|WpfApppliction\\WpfApppliction.csproj|f:\\intern assignment\\wpfapppliction\\wpfapppliction\\wpfapppliction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF05FDB5-F2B7-4E6C-8226-B843F9E7B103}|WpfApppliction\\WpfApppliction.csproj|solutionrelative:wpfapppliction\\wpfapppliction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF05FDB5-F2B7-4E6C-8226-B843F9E7B103}|WpfApppliction\\WpfApppliction.csproj|f:\\intern assignment\\wpfapppliction\\wpfapppliction\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF05FDB5-F2B7-4E6C-8226-B843F9E7B103}|WpfApppliction\\WpfApppliction.csproj|solutionrelative:wpfapppliction\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF05FDB5-F2B7-4E6C-8226-B843F9E7B103}|WpfApppliction\\WpfApppliction.csproj|f:\\intern assignment\\wpfapppliction\\wpfapppliction\\db\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF05FDB5-F2B7-4E6C-8226-B843F9E7B103}|WpfApppliction\\WpfApppliction.csproj|solutionrelative:wpfapppliction\\db\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "F:\\intern assignment\\WpfApppliction\\WpfApppliction\\Item.cs",
+              "RelativeDocumentMoniker": "WpfApppliction\\Item.cs",
+              "ToolTip": "F:\\intern assignment\\WpfApppliction\\WpfApppliction\\Item.cs",
+              "RelativeToolTip": "WpfApppliction\\Item.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:43:45.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryDBContext.cs",
+              "DocumentMoniker": "F:\\intern assignment\\WpfApppliction\\WpfApppliction\\InventoryDBContext.cs",
+              "RelativeDocumentMoniker": "WpfApppliction\\InventoryDBContext.cs",
+              "ToolTip": "F:\\intern assignment\\WpfApppliction\\WpfApppliction\\InventoryDBContext.cs",
+              "RelativeToolTip": "WpfApppliction\\InventoryDBContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwIMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:46:03.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "F:\\intern assignment\\WpfApppliction\\WpfApppliction\\db\\DBConnection.cs",
+              "RelativeDocumentMoniker": "WpfApppliction\\db\\DBConnection.cs",
+              "ToolTip": "F:\\intern assignment\\WpfApppliction\\WpfApppliction\\db\\DBConnection.cs",
+              "RelativeToolTip": "WpfApppliction\\db\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T09:08:14.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\intern assignment\\WpfApppliction\\WpfApppliction\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApppliction\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\intern assignment\\WpfApppliction\\WpfApppliction\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApppliction\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAYwE4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:27:30.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WpfApppliction.csproj",
+              "DocumentMoniker": "F:\\intern assignment\\WpfApppliction\\WpfApppliction\\WpfApppliction.csproj",
+              "RelativeDocumentMoniker": "WpfApppliction\\WpfApppliction.csproj",
+              "ToolTip": "F:\\intern assignment\\WpfApppliction\\WpfApppliction\\WpfApppliction.csproj",
+              "RelativeToolTip": "WpfApppliction\\WpfApppliction.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T08:22:44.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

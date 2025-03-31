@@ -1,0 +1,54 @@
+﻿<Window x:Class="WpfApppliction.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApppliction"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+     <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" /> <!-- Left side: Input Fields -->
+            <ColumnDefinition Width="3*" /> <!-- Right side: DataGrid -->
+        </Grid.ColumnDefinitions>
+
+        <!-- Left Column - Item Form -->
+        <StackPanel Grid.Column="0" Margin="10">
+            <TextBlock Text="Item Name:" FontWeight="Bold"/>
+            <TextBox x:Name="txtItemName" Width="200"/>
+
+            <TextBlock Text="Unit Price:" FontWeight="Bold"/>
+            <TextBox x:Name="txtUnitPrice" Width="200"/>
+
+            <TextBlock Text="Case Per Unit:" FontWeight="Bold"/>
+            <TextBox x:Name="txtCasePerUnit" Width="200"/>
+
+            <TextBlock Text="Supplier:" FontWeight="Bold"/>
+            <TextBox x:Name="txtSupplier" Width="200"/>
+
+            <TextBlock Text="Date:" FontWeight="Bold"/>
+            <DatePicker x:Name="dpDate" Width="200"/>
+
+            <!-- Buttons -->
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <Button Content="Add" Click="AddItem_Click" Width="60" Margin="5"/>
+                <Button Content="Search" Click="SearchItem_Click" Width="60" Margin="5"/>
+                <Button Content="Update" Click="UpdateItem_Click" Width="60" Margin="5"/>
+                <Button Content="Delete" Click="DeleteItem_Click" Width="60" Margin="5"/>
+            </StackPanel>
+        </StackPanel>
+
+        <!-- Right Column - Data Grid -->
+        <DataGrid x:Name="dataGridItems" AutoGenerateColumns="False" Grid.Column="1" Margin="10" Height="300">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Item ID" Binding="{Binding ItemID}" Width="70" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Item Name" Binding="{Binding ItemName}" Width="80"/>
+                <DataGridTextColumn Header="Unit Price" Binding="{Binding UnitPrice}" Width="70"/>
+                <DataGridTextColumn Header="Case Per Unit" Binding="{Binding CasePerUnit}" Width="90"/>
+                <DataGridTextColumn Header="Supplier" Binding="{Binding Supplier}" Width="70"/>
+                <DataGridTextColumn Header="Date" Binding="{Binding Date}" Width="65"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>
